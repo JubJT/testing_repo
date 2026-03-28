@@ -1,3 +1,3 @@
 # testing_repo
 
-__NOTE:__ Contains Print Function
+__NOTE:__ Has one print function.
