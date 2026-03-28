@@ -1,3 +1,3 @@
 # testing_repo
 
-__NOTE:__ Has one print function.
+__NOTE:__ Contains Dynamic Print Function!
